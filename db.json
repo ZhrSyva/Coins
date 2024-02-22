@@ -1,0 +1,212 @@
+{
+  "coins": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "African Buffalo",
+      "face_value": "5 cents",
+      "year": "1955",
+      "price": "40",
+      "country": "America",
+      "metal": "Gold",
+      "quality": "BU",
+      "weight": "4.54 g",
+      "short_description": "Containing one ounce of .9999 fine 24-karat gold, these lustrous coins are among the world’s purest gold coins.",
+      "long_description": "The American Buffalo One Ounce Gold Proof Coin is the first 24-karat gold proof coin ever struck by the U.S. Mint and is the collector version of the official United States Mint American Buffalo Gold Bullion Coin. Each coin is housed in a brown leatherette presentation case with the United States Mint seal embossed on top and an image of a buffalo foil stamped in a golden color on the pillow insert. It is accompanied by a Certificate of Authenticity and will be a beautiful and treasured addition to your collection.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwa4bb5e0f/images/hi-res/coin-programs/American-Buffalo/21el_a.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw2f7d949e/images/hi-res/coin-programs/American-Buffalo/21el_b.jpg?sw=480&sh=420",
+      "is_deleted": false
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "Barbara Bush",
+      "face_value": "10 dollars",
+      "year": "1985",
+      "price": "1505",
+      "country": "America",
+      "metal": "Gold",
+      "quality": "QU",
+      "weight": "15.554 g",
+      "short_description": "Barbara Bush was an admired First Lady, proud mother of six children, and accomplished author. She was also a strong champion for vulnerable communities, including the homeless.",
+      "long_description": "This beautiful one-half ounce, 24-karat gold coin minted with a proof finish honors the legacy of First Spouse Barbara Bush. The obverse (heads) design depicts a portrait of Barbara Bush. Inscriptions are “BARBARA BUSH,” “IN GOD WE TRUST,” “LIBERTY,” “2020,” “41st,” and “1989-1993.” The reverse (tails) design depicts a person reading, with an open road symbolizing literacy, knowledge, and life’s journey. The sun represents the promise of a brighter future. Inscriptions are “UNITED STATES OF AMERICA,” “E PLURIBUS UNUM,” “$10,” “1/2 OZ.,” and “.9999 FINE GOLD.” This coin is encapsulated and packaged in a custom-designed, highly polished, dome-chested, lacquered hardwood presentation case and is accompanied by a Certificate of Authenticity.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwbeb3f33a/images/hi-res/coin-programs/First-Spouse/20pb_a.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw4c2e4705/images/hi-res/coin-programs/First-Spouse/20pb_b.jpg?sw=480&sh=420",
+      "is_deleted": false
+    },
+    {
+      "id": 3,
+      "category_id": 2,
+      "name": "Preamble",
+      "face_value": "10 dollars",
+      "year": "1888",
+      "price": "400",
+      "country": "Russia",
+      "metal": "Silver",
+      "quality": "FU",
+      "weight": "54 g",
+      "short_description": "The obverse design of the 2019 Preamble to the Declaration of Independence Platinum Proof Coin portrays Lady Liberty keeping watch over prairies, lakes, and mountains as pioneers head westward.",
+      "long_description": "As the American Eagle Platinum Proof Coin Program entered its third decade in 2018, the United States Mint introduced a new series featuring three new obverse (heads) designs by one designer and one new common reverse (tails) design. The 2018-2020 Preamble to the Declaration of Independence Platinum Proof Coin Series features a newly designed one-ounce 99.95 percent platinum proof coin issued in each of the series’ three years. Visit our information page on the American Eagle Proof and Uncirculated Coin Program for more information on this exciting new series.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw4a9d2f9d/images/hi-res/coin-programs/American-Eagle/19ej_a.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwf84a3a91/images/hi-res/coin-programs/Commemorative-Coin/24cl_b.jpg?sw=480&sh=420",
+      "is_deleted": false
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "name": "First Amendment ",
+      "face_value": "10 cents",
+      "year": "1805",
+      "price": "1440",
+      "country": "Cuba",
+      "metal": "Silver",
+      "quality": "EU",
+      "weight": "270 g",
+      "short_description": "The fourth coin in the series is the 2024 First Amendment to the United States Constitution Platinum Proof Coin – Right to Assemble.",
+      "long_description": "The five-year (2021-2025) First Amendment to the United States Constitution Platinum Proof Coin Series features a new obverse design each year of issuance. These 99.95 percent platinum proof coins reflect the five freedoms enshrined in the First Amendment—“Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.”",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dweac8bbd1/images/hi-res/coin-programs/American-Eagle/24ej-a.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw87a1cfc3/images/hi-res/coin-programs/American-Eagle/24ej-b.jpg?sw=480&sh=420"
+    },
+    {
+      "id": 5,
+      "category_id": 3,
+      "name": "Azerbaijan Innovation",
+      "face_value": "50 cents",
+      "year": "2000",
+      "price": "100",
+      "country": "Azerbaijan",
+      "metal": "Nickel",
+      "quality": "GU",
+      "weight": "55 g",
+      "short_description": "The obverse design features a dramatic representation of the Statue of Liberty in profile with the inscriptions “IN GOD WE TRUST” and “$1.”",
+      "long_description": "The United States Mint American Innovation1 Coin Program is a multi-year series honoring innovation and innovators with1 coins from each State, District of Columbia, Puerto Rico, Guam, American Samoa, U.S. Virgin Islands, and Northern Mariana Islands. The 2018 American Innovation1 Introductory Coins in the rolls and bags have uncirculated finishes and were minted at the Philadelphia and Denver Mints.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwc95b2df1/images/hi-res/coin-programs/American-Innovation-One-Dollar-Coin/19gba_c.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw1d8547f9/images/hi-res/coin-programs/American-Innovation-One-Dollar-Coin/2018_AI_R.jpg?sw=480&sh=420",
+      "is_deleted": false
+    },
+    {
+      "id": 6,
+      "category_id": 3,
+      "name": "New Jersey",
+      "face_value": "50 cents",
+      "year": "1755",
+      "price": "80",
+      "country": "France",
+      "metal": "Nickel",
+      "quality": "DU",
+      "weight": "70 g",
+      "short_description": "District of Columbia, Puerto Rico, Guam, American Samoa, U.S. Virgin Islands, and Northern Mariana Islands. The 2019 American Innovation1 Coins.",
+      "long_description": "The New Jersey coin is the third of four to be released this year. It features an electric light bulb, developed by Thomas Edison and his team of researchers in New Jersey. The advent of commercially manufactured light bulbs gave people easy control over light in homes and businesses, which drastically changed infrastructure, business, and society by allowing work and social activities to occur regardless of the time of day.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw8a118cab/images/hi-res/coin-programs/American-Innovation-One-Dollar-Coin/2018_AI_First-Patent.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw46e83b2e/images/hi-res/coin-programs/American-Innovation-One-Dollar-Coin/19grc_c.jpg?sw=480&sh=420"
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "name": "American Liberty",
+      "face_value": "100 dollars",
+      "year": "1899",
+      "price": "2099",
+      "country": "Canada",
+      "metal": "Gold",
+      "quality": "AU",
+      "weight": "31.108 g",
+      "short_description": "American Liberty 225th Anniversary Gold Coins are minted in 99.99% 24–karat gold, in high–relief, with raised edge lettering, and a proof finish.",
+      "long_description": "2017 marks the 225th anniversary of the United States Mint. To mark this momentous occasion, we are proud to introduce the 2017 American Liberty 225th Anniversary Gold Coin™ featuring a modern rendition of Lady Liberty. Emblematic figures of liberty have graced American coins since the founding of the United States Mint 225 years ago. Our newest Lady Liberty is a modern rendition of this iconic figure that embodies the ideals of freedom and equality first set forth in our Declaration of Independence. American Liberty 225th Anniversary Gold Coins are minted in 99.99% 24–karat gold, in high–relief, with raised edge lettering, and a proof finish. Each coin is hand packaged in an exquisite, black lacquered hardwood presentation case and is accompanied by a companion booklet detailing the evolution of our Nation’s symbol.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwfb9d8f79/images/hi-res/coins/Gold-Coins/17xa-COTY.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw36d1fa3b/images/hi-res/coins/Gold-Coins/17xa_b.jpg?sw=480&sh=420",
+      "is_deleted": false
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "name": "American Eagle",
+      "face_value": "25 cents",
+      "year": "1875",
+      "price": "540",
+      "country": "Brazil",
+      "metal": "Silver",
+      "quality": "CU",
+      "weight": "85.54 g",
+      "short_description": "The obverse (heads) of this design features a high-relief likeness of “Winged Liberty” from the “Mercury Dime” obverse designed by world-renowned designer Adolph A. Eagle.",
+      "long_description": "The 2022 American Eagle One Ounce Palladium Reverse Proof Coin is a unique collectible. Each coin contains one ounce of .9995 palladium. Like their proof counterparts, reverse proof coins are specially produced from highly polished planchets and dies and often struck more than once to accent the design. They receive the highest quality strike possible and can be distinguished by their mirror-like foreground (design elements) and frosted background, “reversing” the traditional proof finish. This coin’s finish cycles between reverse proof, proof, or uncirculated versions each year.",
+      "image_front-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw17e67fa0/images/hi-res/coin-programs/American-Eagle/22ek_b.jpg?sw=480&sh=420",
+      "image_back-side": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw9117ad7c/images/hi-res/coin-programs/American-Eagle/22ek_c.jpg?sw=480&sh=420",
+      "is_deleted": false
+    },
+    {
+      "image_front-side": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/12/2023-lincoln-penny-uncirculated-obverse-philadelphia-768x768.jpg",
+      "image_back-side": "https://www.usmint.gov/wordpress/wp-content/uploads/2022/12/2023-lincoln-penny-uncirculated-reverse-768x768.jpg",
+      "name": "Abraham Lincoln",
+      "face_value": "50 cents",
+      "year": "1860",
+      "price": "100",
+      "country": "Africa",
+      "metal": "Copper",
+      "short_description": "The “Union Shield” theme is the current design of the U.S. one-cent coin. The U.S. Mint first issued this design in 2010. The obverse (heads) shows the image of President Abraham Lincoln used on the penny since 1909.",
+      "long_description": "The penny was one of the first coins made by the U.S. Mint after its establishment in 1792. The design on the first penny was of a woman with flowing hair symbolizing liberty. The coin was larger and made of pure copper, while today’s smaller coin is made of copper and zinc.\n\nLiberty stayed on the penny for more than 60 years. In 1857, the coin got smaller and the metal composition changed to 88% copper and 12% nickel. With these changes came new designs. In 1857 and 1858 the new coins featured a flying eagle on the obverse and a wreath on the reverse. The “Indian Head” design appeared from 1859 to 1909.",
+      "quality": "AU",
+      "weight": "85 g",
+      "id": 1708463435272,
+      "category_id": 2,
+      "is_deleted": false
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Bullion coins",
+      "image": "https://catalog.usmint.gov/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwbeb3f33a/images/hi-res/coin-programs/First-Spouse/20pb_a.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Exclusive coins",
+      "image": "https://catalog.usmint.gov/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw48e3eda5/images/hi-res/coin-programs/America-the-Beautiful/16an_a.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Commemorative coins",
+      "image": "https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dwbf02113e/images/hi-res/coin-programs/Presidential-One-Dollar-Coin/2020_GHW-Bush_1-Dollar-Unc_R.jpg?sw=480&sh=420"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "title": "country",
+      "list": [
+        "America",
+        "Africa",
+        "Azerbaijan",
+        "Brazil",
+        "Canada",
+        "Cuba",
+        "France",
+        "Russia"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "metal",
+      "list": [
+        "Gold",
+        "Nickel",
+        "Silver",
+        "Copper"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "quality",
+      "list": [
+        "AU",
+        "BU",
+        "CU",
+        "DU",
+        "GU",
+        "EU",
+        "QU",
+        "FU"
+      ]
+    }
+  ]
+}
